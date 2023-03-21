@@ -23,7 +23,7 @@
   [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/PedroArthurDR)
   [![JEST](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)](https://github.com/PedroArthurDR)
   [![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://github.com/PedroArthurDR)
-  <a href="https://github.com/plperera">
+  <a href="https://github.com/PedroArthurDR">
     <img height="28em" style="width: 5em"             src="https://camo.githubusercontent.com/240d9f9177236e5fd117a33e31e5b77b5fece5f03410fe10f5c7835937fb3506/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f636b65722f646f636b65722d706c61696e2d776f72646d61726b2e737667">
   </a>
     [![PRISMA ORM](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)]()
